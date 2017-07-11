@@ -1,0 +1,1 @@
+  g++ -c <filename> -o <target_name> 
