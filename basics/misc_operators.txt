@@ -1,0 +1,8 @@
+sizeof                   return size of var
+Condition?X X:Y          if then else
+,                        sequence ofperations to be performed
+.(dot) and -> (arrow)    reference individual member of classes, structures, and unions
+Cast                     convert one data type to another. int(2.200) would return 2
+&                        Pointer, returns address of a variable. &a; returns addres of addres
+*                        Pointer operator, pointer to a variable. for example *var; will pointer to a variable var.
+
